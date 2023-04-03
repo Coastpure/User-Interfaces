@@ -35,7 +35,7 @@ entry2.pack(pady=12, padx=10)
 button = customtkinter.CTkButton(master=frame, text="Login", command=login)
 button.pack(pady=12, padx=10)
 
-#checkbox
+#checkbox.
 checkbox = customtkinter.CTkCheckBox(master=frame, text="Remember Me")
 checkbox.pack(pady=12, padx=10)
 
